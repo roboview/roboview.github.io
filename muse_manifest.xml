@@ -1,0 +1,86 @@
+<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="roboview.github.io" resolutions="1x" timestamp="1507994790711">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="robo-tile.css" crc="4066664912" ref="robo-tile"/>
+    <file name="nomq_robo-tile.css" crc="11230509" ref="robo-tile"/>
+    <file name="index.css" crc="486021564" ref="index"/>
+    <file name="nomq_index.css" crc="366115951" ref="index"/>
+    <file name="robo-vision.css" crc="159576636" ref="robo-vision"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:robo-tile:robo-vision"/>
+    <file name="museutils.js" crc="4232573551" ref="index:robo-tile:robo-vision"/>
+    <file name="whatinput.js" crc="86476730" ref="index:robo-tile:robo-vision"/>
+    <file name="museconfig.js" crc="4152223963" ref="index:robo-tile:robo-vision"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3880853905" ref="index:robo-tile"/>
+    <file name="jquery.museresponsive.js" crc="433634197" ref="index:robo-tile"/>
+    <file name="require.js" crc="4234670167" ref="index:robo-tile:robo-vision"/>
+    <file name="jquery.scrolleffects.js" crc="146279342" ref="robo-vision"/>
+  </folder>
+  <folder name="images">
+    <file name="home-favicon.ico" crc="4043713377" ref="index"/>
+    <file name="white-paint.png" crc="3867223131" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="robo-3.png" crc="20647364" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="red-paint-crop-u1601.png" crc="3840097726" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="robo-1.png" crc="4203283609" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="robo-red.png" crc="4031604479" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="robo-2.png" crc="59721985" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bg.jpg" crc="514407807" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="white-paint960x540.png" crc="3984425419" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="robo-3311x448.png" crc="440502019" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="red-paint-crop-u16012.png" crc="492724846" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="robo-1-u6638-fr.png" crc="4213315710" ref="index"/>
+    <file name="robo-red-u6638-r-fr.png" crc="485218386" ref="index"/>
+    <file name="robo-2312x445.png" crc="3795541537" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index:robo-tile"/>
+    <file name="robo-tile-favicon.ico" crc="3906498675" ref="robo-tile"/>
+    <file name="robo-tile.png" crc="4261790287" seo="true" ref="robo-tile">
+      <caption webpage="robo-tile" alt=""/>
+    </file>
+    <file name="robo-tile-bg-red.jpg" crc="324871379" ref="robo-tile">
+      <caption webpage="robo-tile" alt=""/>
+      <caption webpage="robo-tile" alt=""/>
+    </file>
+    <file name="robo-tile960x1121.png" crc="400277573" seo="true" ref="robo-tile">
+      <caption webpage="robo-tile" alt=""/>
+    </file>
+    <file name="robo-vision-favicon.ico" crc="3906498675" ref="robo-vision"/>
+    <file name="small-shirry.jpg" crc="21487954" ref="robo-vision">
+      <caption webpage="robo-vision" alt=""/>
+      <caption webpage="robo-vision" alt=""/>
+    </file>
+    <file name="shirry.jpg" crc="4165115570" ref="robo-vision">
+      <caption webpage="robo-vision" alt=""/>
+    </file>
+    <file name="mini-red-robo.png" crc="44831231" ref="robo-vision">
+      <caption webpage="robo-vision" alt=""/>
+      <caption webpage="robo-vision" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="475804242" seo="true" mt="1507990752979" redirect="true"/>
+  <file name="robo-tile.html" crc="249336854" seo="true" mt="1507990919096" redirect="true"/>
+  <file name="robo-vision.html" crc="4008187738" seo="true" mt="1507990749245" redirect="true"/>
+</manifest>
